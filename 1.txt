@@ -26,10 +26,6 @@
 {"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_DY1990","name":"🐼90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://fj365.ml/6/hdmoli.json"},
-{"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://fj365.ml/6/dandan.json"},
-{"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://fj365.ml/6/gaze.json"},
-
 //-------------------------------------------------------------自建JSON-------------------------------------------------------------
 {"key":"达达龟","name":"达达龟#","type":3,"api":"csp_XPathFilter","filterable":1,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/json/ddg.json"},
 {"key":"剧白白","name":"剧白白#","type":3,"api":"csp_XPathMacFilter","filterable":1,"ext":"https://sontech.coding.net/p/1234/d/test/git/raw/master/json/jbb.json"},
@@ -95,10 +91,6 @@
 {"key":"哔嘀影视","name":"哔嘀影视","type":3,"api": "csp_XPath","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/Xpath/bidiys.json"},
 
 //-------------------------------------------------------------网络资源-------------------------------------------------------------
-{"key":"csp_xpath_猫群自维护源01","name":"猫群自维护源01","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pglblb.coding.net/p/maotv/d/js/git/raw/master/01-%E4%B9%90%E7%8C%AAtv.js?download=false"},
-{"key":"猫群贺岁2","name":"猫迷剧场【2】","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bcwzg.com/api.php/app/"},
-{"key":"猫群贺岁3","name":"猫迷剧场【3】","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"key":"猫群贺岁7","name":"猫迷剧场【7】","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xays6677.com/mogai_api.php/v1.vod"},
 {"key":"csp_xpath___在线之家","name":"在线之家〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
 {"key":"csp_xpath___利奥影视","name":"利奥影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/libvio.json"},
 {"key":"csp_xpath___师兄影视","name":"师兄影视〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/tvci.json"},
