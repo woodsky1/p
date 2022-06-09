@@ -330,7 +330,7 @@
 
 //-------------------------------------------------------------成人资源-------------------------------------------------------------
 {"key":"新香蕉","name":"新香蕉","type":3,"api": "csp_XPathMacFilter","ext": "https://sontech.coding.net/p/1234/d/test/git/raw/master/json/2024xxj.json"},
-
+{"key": "91md","name": "91md","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","tag": "qb,tj,rm","categories": []},
 {"key":"酷豆采集","name":"酷豆av","type":1,"searchable":0,"quickSearch":0,"api": "https://api.kdapi.info/api.php/provide/vod/?ac=list","playUrl": "https://jx.kubohk.com/jx/?url="},
 {"key":"秀色采集","name":"秀色av","type":0,"searchable":0,"quickSearch":0,"api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl": "https://api.xiusebf.com/m3u8/?url="},
 {"key":"爱播采集","name":"爱播av","type":1,"searchable":0,"quickSearch":0,"api": "https://cj.apiabzy.com/api.php/provide/vod/?ac=list","playUrl": "https://player.aibozyplayer.com/m3u8/?url="},
